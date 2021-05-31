@@ -77,15 +77,7 @@ class QuestionController extends AbstractController
     }
 
 
-    /**
-     * Route("/user", name="user")
-     */
 
-    public function load()
-    {
-
-
-    }
 
 
 
